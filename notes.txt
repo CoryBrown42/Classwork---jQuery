@@ -1,0 +1,6 @@
+help traffic
+CDN link to site instead of downloading pages
+
+multi threaded
+speeds up presentation of site
+
